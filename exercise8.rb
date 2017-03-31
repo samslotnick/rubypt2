@@ -5,10 +5,11 @@
 #  return add_array = expenses { |num| puts num + total }
 #end
 
+expenses = [250, 7.95, 30.95, 16.50]
+  sum == 0
 
 
 def total(expenses)
-expenses.each { |i| i.sum }
-return
+  return expenses.each { |i| + sum }
 end
-puts total()
+puts total (expenses)
